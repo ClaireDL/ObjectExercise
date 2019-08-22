@@ -1,14 +1,18 @@
 package com.clairedl.scala
 
-class Car(val name: String, val engine: Engine) {
-    override def toString(): String =
-        s"The $name has a ${engine.brand} ${engine.engineType} engine."
-}
-
-class Engine(val brand: String, val engineType: String)
-
 object Main extends App {
+    // car exercise
     val newEngine = new Engine("bmw", "whatever")
     val peugeot = new Car("peugeot", newEngine)
     println(peugeot.toString())
+
+    // shopping cart exercise
+    val courgettes = new Item("courgettes")
+    val tomatoes = new Item("tomatoes")
+    val claireCart = new Cart("Claire", List(courgettes, tomatoes))
+
+    println(s"In ${claireCart.shopper}'s cart, there are:")
+    for { item <- claireCart.content } {
+        println(s"""¦ ${item.name}.stripMargin""")
+    }
 }
