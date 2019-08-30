@@ -1,0 +1,890 @@
+INFO  time: initialize in 0.52s
+WARN  no build tool detected in workspace 'c:\cygwin64\home\chdell\HierarchyImplementation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\target\build.sbt
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\target\build.sbt
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\project\build.properties
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+WARN  no build target: c:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.48s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\target\build.sbt
+Aug 22, 2019 10:21:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Aug 22, 2019 10:21:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\target\build.sbt
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 73, 73, 87)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 73, 73, 80)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 73, 73, 81)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 73, 73, 83)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 73, 73, 83)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\target\build.sbt
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 22, 2019 3:59:18 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Aug 22, 2019 3:59:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 22, 2019 4:13:22 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: null
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+Aug 22, 2019 4:36:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2183
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 22, 2019 4:38:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2252
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 88)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 88)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 349, 349, 359)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 349, 349, 359)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 349, 349, 358)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 399, 399, 408)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 399, 399, 408)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 399, 399, 408)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 399, 399, 408)
+Exception in thread "pool-9-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:20)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:189)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	... 3 more
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 22, 2019 5:02:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2731
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 22, 2019 8:44:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2999
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 22, 2019 8:46:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3035
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 87)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 22, 2019 8:47:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 88)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in Seq[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 91)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in Seq[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 84)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 78, 78, 87)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 22, 2019 8:52:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 22, 2019 8:53:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 22, 2019 8:54:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3335
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 79, 79, 88)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in Seq[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 79, 79, 88)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 22, 2019 9:13:30 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+INFO  shutting down Metals
+INFO  time: initialize in 2.58s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.NestedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 91)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.NestedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 84)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.NestedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 84)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.NestedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 84)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 135)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 128)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 129)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 131)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 132)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[Nothing]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 134)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[Nothing]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 134)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[Nothing]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 115, 115, 134)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 85)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 78)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[AnyRef]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 83)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 82)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 81)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[Any]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 80)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 79)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 78)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 81)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 81)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 80)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 80)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 79)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 79)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 78)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+Aug 23, 2019 2:41:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in List[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 78)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 91)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 71, 71, 84)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 23, 2019 2:45:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[Nothing]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 202, 202, 221)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 143, 143, 156)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 166, 166, 186)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 138, 138, 151)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LinkedList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 138, 138, 151)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 156, 156, 164)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala in com.clairedl.scala.LList[A]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/NestedList.scala, 170, 170, 178)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 23, 2019 3:31:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 23, 2019 4:25:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2234
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  shutting down Metals
+INFO  time: initialize in 3.02s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  shutting down Metals
+INFO  time: initialize in 2.48s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  shutting down Metals
+INFO  time: initialize in 2.26s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+INFO  shutting down Metals
+INFO  time: initialize in 3.03s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 29, 2019 5:38:58 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+Aug 29, 2019 5:38:58 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+Aug 29, 2019 5:38:59 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+Aug 29, 2019 5:38:59 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+Aug 29, 2019 5:38:59 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+Aug 29, 2019 5:38:59 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+Aug 30, 2019 2:10:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 2:10:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 2:10:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 2:10:16 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 2:10:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 2:10:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Exception in thread "pool-9-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:20)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:189)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	... 3 more
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 269, 269, 279)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 294, 294, 308)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 294, 294, 301)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 294, 294, 302)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 294, 294, 304)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 294, 294, 307)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Quantity]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 294, 294, 308)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 274, 274, 284)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Quantity]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 322, 322, 336)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 30, 2019 2:33:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Aug 30, 2019 2:33:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Aug 30, 2019 2:33:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2522
+Aug 30, 2019 2:33:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2526
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 293, 293, 303)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 323, 323, 333)
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[com.clairedl.scala.Item]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 293, 293, 303)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Exception in thread "pool-9-thread-2" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:20)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:189)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	... 3 more
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+Aug 30, 2019 4:00:48 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 4:00:48 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 4:00:48 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 4:00:48 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 4:00:48 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Aug 30, 2019 4:00:49 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:382)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala in List[String]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ShoppingCart.scala, 348, 348, 360)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+Aug 30, 2019 4:07:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Aug 30, 2019 4:07:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Aug 30, 2019 4:07:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  shutting down Metals

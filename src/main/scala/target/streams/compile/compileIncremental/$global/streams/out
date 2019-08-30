@@ -1,0 +1,28 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\target\scala-2.12\classes\com\clairedl\scala\Car.class, C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\target\scala-2.12\classes\com\clairedl\scala\Main$.class, C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\target\scala-2.12\classes\com\clairedl\scala\Main$delayedInit$body.class, C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\target\scala-2.12\classes\com\clairedl\scala\Engine.class, C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\target\scala-2.12\classes\com\clairedl\scala\Main.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.clairedl.scala.Car, com.clairedl.scala.Main, com.clairedl.scala.Engine)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.clairedl.scala.Car, com.clairedl.scala.Main, com.clairedl.scala.Engine)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\cygwin64\home\chdell\HierarchyImplementation\src\main\scala\HierarchyImplementation.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\NestedList.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala, C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 4 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 4 Scala sources to C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.7[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 390bf for Scala compiler version 2.12.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files (x86)\Java\jre1.8.0_151\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_151\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_151\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_151\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_151\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_151\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_151\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_151\classes;C:\Users\chdell\.sbt\boot\scala-2.12.7\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\cygwin64\home\chdell\ObjectPractice\src\main\scala\target\scala-2.12\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
