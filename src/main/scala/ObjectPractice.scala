@@ -1,6 +1,14 @@
 package com.clairedl.scala
 
+class Car(val name: String, val engine: Engine) {
+    override def toString(): String =
+        s"The $name has a ${engine.brand} ${engine.engineType} engine."
+}
+
+class Engine(val brand: String, val engineType: String)
+
 object Main extends App {
+<<<<<<< HEAD
     // car exercise
     val newEngine = new Engine("bmw", "diesel")
     val peugeot = new Car("peugeot", newEngine)
@@ -49,5 +57,10 @@ object Main extends App {
         println(s"For ${sport.name}, ${sport.owner} has an equipment worth ${sport.cost}GBP")
         println(sport.renew_equipment)
     }
+=======
+    val newEngine = new Engine("bmw", "whatever")
+    val peugeot = new Car("peugeot", newEngine)
+    println(peugeot.toString())
+>>>>>>> parent of 96ac89b... added ShoppingCart.scala
 }
 
