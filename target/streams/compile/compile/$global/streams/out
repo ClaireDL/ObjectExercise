@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0mC:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala:10:36: no arguments allowed for nullary constructor Quantity: ()com.clairedl.scala.Quantity[0m
-[0m[[0m[31merror[0m] [0m[0m    val courg_quant = new Quantity(4)[0m
-[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala:12:46: too many arguments (3) for constructor Item: (name: String, quantity: com.clairedl.scala.Quantity)com.clairedl.scala.Item[0m
-[0m[[0m[31merror[0m] [0m[0m    val tomatoes = new Item("tomatoes", 300, "g")[0m
-[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala:31:24: expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0m    protected override def frequency: Int = 100[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

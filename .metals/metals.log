@@ -888,3 +888,138 @@ WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Obj
 WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
 WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
 INFO  shutting down Metals
+INFO  time: initialize in 0.49s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Tree.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\areaCalculator\src\main\scala\AreaCalculator.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Car.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+Aug 31, 2019 2:52:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Aug 31, 2019 2:52:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Aug 31, 2019 2:52:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+Aug 31, 2019 2:53:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ShoppingCart.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+Aug 31, 2019 7:37:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+something's wrong: no file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala in Seq[<error>]RangePosition(file:///c%3A/cygwin64/home/chdell/ObjectPractice/src/main/scala/ObjectPractice.scala, 1129, 1129, 1142)
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  shutting down Metals
+INFO  time: initialize in 3.41s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\ObjectPractice.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Parachute.scala
+WARN  no build target: c:\cygwin64\home\chdell\ObjectPractice\src\main\scala\Equipment.scala
+WARN  no build target: c:\cygwin64\home\chdell\areaCalculator\src\main\scala\AreaCalculator.scala

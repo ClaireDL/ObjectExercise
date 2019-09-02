@@ -1,0 +1,6 @@
+#FileLock
+#Mon Sep 02 11:14:34 BST 2019
+hostName=M14053.essex.ac.uk
+id=16cf178162c0282024b2bf3b67d4b744336ef729248
+method=file
+server=192.168.56.1\:55178

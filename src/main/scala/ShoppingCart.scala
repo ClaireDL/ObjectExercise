@@ -1,8 +1,8 @@
 package com.clairedl.scala
 
-class Item(val name: String, val quantity: Quantity)
+class Item(val name: String)
 
-class Quantity(){
+class Quantity{
     def quantity(howMany: Int): String =
         return s"$howMany"
 
