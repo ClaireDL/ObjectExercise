@@ -6,9 +6,3 @@ class Car(val name: String, val engine: Engine) {
 }
 
 class Engine(val brand: String, val engineType: String)
-
-object Main extends App {
-    val newEngine = new Engine("bmw", "whatever")
-    val peugeot = new Car("peugeot", newEngine)
-    println(peugeot.toString())
-}

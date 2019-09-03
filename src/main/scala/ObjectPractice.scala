@@ -1,6 +1,7 @@
 package com.clairedl.scala
 
 object Main extends App {
+
     // car exercise
     val newEngine = new Engine("bmw", "diesel")
     val peugeot = new Car("peugeot", newEngine)
@@ -30,7 +31,7 @@ object Main extends App {
     println()
     // tree exercise
     val tree = Node(Element(2), Node(Element(3), Element(4)))
-    println(tree)
+    println( tree )
 
     println()
     // parachute exercise
@@ -46,8 +47,7 @@ object Main extends App {
     )
 
     for { sport <- myActivities } {
-        println(s"For ${sport.name}, ${sport.owner} has an equipment worth ${sport.cost}GBP")
-        println(sport.renew_equipment)
+        println( s"For ${sport.name}, ${sport.owner} has an equipment worth ${sport.cost}GBP" )
+        println( sport.renew_equipment )
     }
 }
-
