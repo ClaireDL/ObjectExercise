@@ -1,14 +1,8 @@
 package com.clairedl.scala
 
-class Item(val name: String)
+case class Item(val name: String, val quantity: String)
 
-class Quantity{
-    def quantity(howMany: Int): String =
-        return s"$howMany"
-
-    def quantity(howMuch: Int, whatUnit: String): String =
-        return s"$howMuch $whatUnit"
-}
+case class Quantity(number: Int, whatUnit: String)
 
 class Cart(
     val shopper: String,

@@ -9,8 +9,8 @@ object Main extends App {
     println()
 
     // shopping cart exercise
-    val courgettes = new Item("courgettes")
-    val tomatoes = new Item("tomatoes")
+    val courgettes = new Item("courgettes", "3")
+    val tomatoes = new Item("tomatoes", "400g")
 
     val cart = new Cart(
         "Claire",
@@ -19,7 +19,7 @@ object Main extends App {
 
     println( s"In ${cart.shopper}'s cart, there are:" )
     for { item <- cart.content } {
-        println( s"- ${item.name}" )
+        println( s"- ${item.quantity} ${item.name}" )
     }
 
     println()

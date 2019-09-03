@@ -9,7 +9,7 @@ abstract class Activity(val owner: String) {
 
     def renew_equipment: String = {
         if( frequency > 80 ) {
-            s"For ${name} renew equipment every two years."
+            s"For ${name} renew equipment every year."
         }
         else {
             s"For ${name} renew equipment every two years."
