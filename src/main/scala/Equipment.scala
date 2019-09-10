@@ -7,7 +7,7 @@ abstract class Activity(val owner: String) {
 
     protected def frequency: Double = 50
 
-    def renew_equipment: String = {
+    def renewEquipment: String = {
         if( frequency > 80 ) {
             s"For ${name} renew equipment every year."
         }

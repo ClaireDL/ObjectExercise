@@ -24,30 +24,29 @@ object Main extends App {
     }
 
     println()
-    // nested list exercise
-    // val my_list = new LLConstructor(2, LList(4, LListEnd))
-    // println( my_list )
+
+    println( linkedList.tail.tail.head )
 
     println()
     // tree exercise
-    val tree = Node(Element(2), Node(Element(3), Element(4)))
-    println( tree )
+    // val tree = Node(Element(2), Node(Element(3), Element(4)))
+    // println( tree )
 
     println()
     // parachute exercise
-    val main_F = new Canopy("Performance Design", 170, 2800)
-    val reserve_F = new Canopy("Help me", 160, 1500)
-    val rig_F = new Rig("Vector", 3500)
+    val mainF = new Canopy("Performance Design", 170, 2800)
+    val reserveF = new Canopy("Help me", 160, 1500)
+    val rigF = new Rig("Vector", 3500)
 
     val shoes = new Footwear("La Sportiva", 11)
 
     val myActivities: Seq[Activity] = Seq(
-        new Skydiving("Fab", main_F, reserve_F, rig_F),
+        new Skydiving("Fab", mainF, reserveF, rigF),
         new Climbing("Fab", shoes)
     )
 
     for { sport <- myActivities } {
         println( s"For ${sport.name}, ${sport.owner} has an equipment worth ${sport.cost}GBP" )
-        println( sport.renew_equipment )
+        println( sport.renewEquipment )
     }
 }
