@@ -1,8 +1,7 @@
 package com.clairedl.scala
-import java.{util => ju}
 
 abstract class Tree
 
-case class Node(left: Tree, right: Tree) extends Tree
+class Node(left: Any, right: Any) extends Tree
 
-case class Element[A](val value: A) extends Tree
+class Stem(val value: Any) extends Tree

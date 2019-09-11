@@ -25,12 +25,13 @@ object Main extends App {
 
     println()
 
-    println( linkedList.tail.tail.head )
+    // linked list exercise
+    val linkedList = new LList(2, new LList(3, null))
+    println( linkedList.tail.head )
 
     println()
     // tree exercise
-    // val tree = Node(Element(2), Node(Element(3), Element(4)))
-    // println( tree )
+    val tree = new Node(4, new Node(3,6))
 
     println()
     // parachute exercise
